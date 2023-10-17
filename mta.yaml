@@ -227,4 +227,4 @@ resources:
       service: sap-successfactors-extensibility
       service-plan: api-access
       config:
-        systemName: STestRanCW42SFS # <-- Provide your system name "SFPART046183" is dummy name
+        systemName: SFTestRanCW42SFS # <-- Provide your system name "SFPART046183" is dummy name
